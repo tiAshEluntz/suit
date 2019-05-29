@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/app/models/Ticket.php</file>
+            <file>file:/C:/xampp/htdocs/app/models/Employee.php</file>
+            <file>file:/C:/xampp/htdocs/app/views/Home/ViewEmployee.php</file>
+            <file>file:/C:/xampp/htdocs/app/views/EmployeeNavBar.php</file>
+            <file>file:/C:/xampp/htdocs/app/views/AdminNavBar.php</file>
+            <file>file:/C:/xampp/htdocs/app/views/Home/EmployeeAnswerTickets.php</file>
+            <file>file:/C:/xampp/htdocs/app/controllers/EmployeeController.php</file>
+            <file>file:/C:/xampp/htdocs/app/controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/app/views/Home/SupportView.php</file>
+            <file>file:/C:/xampp/htdocs/app/models/Customer.php</file>
+        </group>
+    </open-files>
+</project-private>
